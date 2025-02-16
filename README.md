@@ -14,7 +14,7 @@
 - Optimizing **visual robot programming** for better learning from videos.  
 
 💬 **Ask me about:**  
-- ROS, Gazebo, MoveIt, SLAM,PYKFL,Gen-AI,OpenCV, and deep learning applications in robotics.  
+- ROS, Gazebo, MoveIt, SLAM, PYKDL, ML, Gen-AI, OpenCV, and deep learning applications in robotics.  
 - Web scraping and data visualization using **Flask**.  
 
 📫 **How to reach me:**  
