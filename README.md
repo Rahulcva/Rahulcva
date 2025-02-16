@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Rahul!  
 
 🔭 **Currently working on:**  
-- Robotics projects using **ROS1 & ROS2**, **Gazebo**, and **MoveIt**.  
+- Robotics projects using **ROS1 & ROS2**, **Gazebo**, and **MoveIt**,**Gen-AI**,.  
 
 🌱 **Currently learning:**  
 - Advanced **computer vision** ,**machine learning** , **gen-ai** and **deep learning** for robotics applications.  
